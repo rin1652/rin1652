@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rin1652/rin1652/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<p align="center">
   Mobile Application Development • Cross-platform • REST API Integration • AI-assisted Development
 </p>
 
